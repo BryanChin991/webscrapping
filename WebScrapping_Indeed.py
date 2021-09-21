@@ -55,10 +55,10 @@ def webScrapping(soup):
     return jobs_list
 
 all_jobs = pd.DataFrame()
-for v in range(80, 100, 10):
+for v in range(160, 190, 10):
     link = UrlParsing(v)
     new_jobs = webScrapping(link)
     all_jobs = all_jobs.append(new_jobs, ignore_index=True)
 
 print(all_jobs.head(), 'total length: ', len(all_jobs))
-all_jobs.to_csv('jobs_list_004.csv', index=False)
+all_jobs.to_csv('jobs_list_007.csv', index=False)
