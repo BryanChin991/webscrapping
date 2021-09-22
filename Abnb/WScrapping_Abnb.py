@@ -10,7 +10,7 @@ def WebScrape(value):
     soup = BeautifulSoup(r.text, 'html.parser')
     return soup
 
-web = WebScrape(10)
+web = WebScrape(100)
 for hotel in web.find_all('div', class_='_fhph4u'):
     all_list = []
     for info in hotel.find_all('div', class_='_gig1e7'):
@@ -54,4 +54,4 @@ df = pd.DataFrame()
 # print(all_list)
 df = df.append(all_list, ignore_index=True)
 print(df)
-df.to_csv('Abnb_listings_1.csv', index=False)
+df.to_csv('./Scraping_lists/Abnb_listings_10.csv', index=False)
