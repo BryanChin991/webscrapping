@@ -5,8 +5,9 @@ Please look for the source code in the respective folder, and the scraped inform
 
 ### Airbnb dataset
 - Before data cleaning
-![Capture](https://user-images.githubusercontent.com/70503701/134373860-1d9b662a-c869-4962-8da4-38404c0770c4.PNG)
+![Capture](https://user-images.githubusercontent.com/70503701/134380384-5a8abfd0-db56-438c-9b0d-1daeae52b81b.PNG)
 
 - After data cleaning
-![Capture2](https://user-images.githubusercontent.com/70503701/134374244-3795db97-926c-4f83-b7f7-52d3b1513b71.PNG)
+![Capture2](https://user-images.githubusercontent.com/70503701/134380396-1e8c3177-5175-482f-8bd0-61e8de128201.PNG)
+
 
