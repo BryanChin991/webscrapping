@@ -1,7 +1,4 @@
-web scraping Indeed and Airbnb website using BeautifulSoup and requests with python. 
-
-Please look for the source code in the respective folder, and the scraped information in scraping lists folders
-
+This is a Web Scraping and data analysis project for Airbnb listing. The data was scraped from website: https://www.airbnb.com/ using BeautifulSoup and requests. The raw data was compiled, and data cleaning was performed to generate meaningful data frame using pandas. The clean dataset will then analyzed using numpy, matplotlib and seaborn. Below is the series of questions asking during data analysis
 
 ### Airbnb dataset
 - Before data cleaning
