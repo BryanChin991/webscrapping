@@ -1,203 +1,274 @@
-Location,Room,Guests,bed_type,Number_of_bed,Number_of_bath,wifi,Air_cond,Kitchen,Self_check_in,Price_in_MYR
-Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,85.5
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,False,117.0
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,True,157.5
-Kuala Lumpur,Entire serviced apartment,6, 3 bedrooms,3, 2 baths,True,True,True,False,49.5
-Kuala Lumpur,Hotel room,2, 1 bedroom,1, 1 private bath,True,True,False,True,58.5
-Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1.5 baths,False,True,False,True,85.5
-Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,0, 1 bath,True,True,True,True,58.5
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,2, 1 bath,True,True,False,True,45.0
-Bukit Bintang,Entire condominium (condo),3, Studio,1, 1 bath,True,True,True,True,103.5
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,135.0
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,117.0
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,180.0
-Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,False,144.0
-Kuala Lumpur,Entire rental unit,2, Studio,0, 1 bath,True,True,True,True,103.5
-Kuala Lumpur,Entire condominium (condo),4, Studio,3, 1 bath,True,True,True,False,103.5
-Kuala Lumpur,Entire condominium (condo),3, 1 bedroom,1, 1.5 baths,True,True,True,True,72.0
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1.5 baths,True,True,True,True,130.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,True,True,94.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,False,True,72.0
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 2 baths,True,True,True,True,94.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,166.5
-Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,85.5
-Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,,,True,True,True,True,49.5
-Kuala Lumpur,Entire loft,3, 1 bedroom,1, 1 bath,True,True,False,True,45.0
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,99.0
-Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,True,63.0
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,157.5
-Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,108.0
-Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,108.0
-Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,True,108.0
-Kuala Lumpur,Entire condominium (condo),6, 1 bedroom,2, 1 bath,True,True,True,True,171.0
-Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,False,130.5
-Kuala Lumpur,Entire rental unit,4, 2 bedrooms,4, 2 baths,True,True,True,True,193.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,144.0
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,94.5
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,189.0
-Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,85.5
-Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,117.0
-Federal Territory of Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,99.0
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,103.5
-Kuala Lumpur,Entire serviced apartment,2, Studio,2, 1 bath,True,True,True,True,81.0
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,True,True,63.0
-Federal Territory of Kuala Lumpur,Private room,2, 1 bedroom,1, 1 private bath,True,True,True,True,67.5
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,True,130.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,81.0
-Kuala Lumpur,Entire condominium (condo),4, Studio,1, 1 bath,True,True,True,False,103.5
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,True,121.5
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1 bath,True,True,False,True,99.0
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,True,108.0
-Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1 bath,True,True,True,True,153.0
-Kuala Lumpur,Entire rental unit,5, Studio,4, 1 bath,True,True,True,True,76.5
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,False,103.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,162.0
-Kuala Lumpur,Entire rental unit,3, Studio,2, 1 bath,True,True,True,True,94.5
-Kuala Lumpur,Entire rental unit,5, 1 bedroom,1, 1.5 baths,True,True,True,True,90.0
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1 bath,True,True,False,True,45.0
-Kuala Lumpur,Entire rental unit,2, Studio,1, 1.5 baths,True,True,True,False,94.5
-Kuala Lumpur,Entire condominium (condo),6, 1 bedroom,3, 1 bath,True,True,True,True,175.5
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,193.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,139.5
-Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,85.5
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,2, 2 baths,True,True,True,True,117.0
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,94.5
-Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,117.0
-Kuala Lumpur,Entire serviced apartment,4, 1 bedroom,1, 1 bath,True,True,True,False,81.0
-Kuala Lumpur,Entire serviced apartment,3, Studio,2, 1 bath,True,True,True,True,103.5
-Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,112.5
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,True,153.0
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,117.0
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,139.5
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,171.0
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,189.0
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,121.5
-Kuala Lumpur,Entire rental unit,6, 1 bedroom,3, 1 bath,True,True,True,True,76.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,144.0
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,130.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,175.5
-Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,85.5
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,162.0
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,103.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,2, 1 bath,True,True,True,True,135.0
-Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1 bath,True,True,True,True,153.0
-Federal Territory of Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,112.5
-Federal Territory of Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,126.0
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,112.5
-Federal Territory of Kuala Lumpur,Entire serviced apartment,4, Studio,2, 1 bath,True,True,True,True,112.5
-Kuala Lumpur,Entire rental unit,5, 1 bedroom,1, 1 bath,True,True,True,True,81.0
-Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,90.0
-Kuala Lumpur,Entire condominium (condo),3, Studio,1, 1 bath,True,True,True,True,148.5
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1.5 baths,True,True,True,True,130.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,90.0
-Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,94.5
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1 bath,True,True,False,True,45.0
-Kuala Lumpur,Entire condominium (condo),3, 1 bedroom,2, 1 bath,True,True,True,True,94.5
-Federal Territory of Kuala Lumpur,Entire rental unit,3, 1 bedroom,2, 1 bath,True,True,True,True,108.0
-Kuala Lumpur,Entire loft,4, 1 bedroom,2, 1 bath,True,True,False,True,49.5
-Kuala Lumpur,Entire rental unit,3, Studio,2, 1 bath,True,True,True,True,58.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,90.0
-Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,True,117.0
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,171.0
-Kuala Lumpur,Entire serviced apartment,2, Studio,2, 1 bath,True,True,True,True,81.0
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,175.5
-Kuala Lumpur,Entire rental unit,5, Studio,1, 1 bath,True,True,True,True,108.0
-Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,True,148.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,175.5
-Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,0, 1 bath,True,True,True,True,76.5
-Kuala Lumpur,Entire rental unit,7, 1 bedroom,1, 1 bath,True,True,True,True,175.5
-Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,144.0
-Kuala Lumpur,Entire serviced apartment,3, 1 bedroom,1, 1.5 baths,True,True,True,True,81.0
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,108.0
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,True,144.0
-Federal Territory of Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,99.0
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, Half-bath,True,True,True,True,108.0
-Federal Territory of Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,121.5
-Kuala Lumpur,Entire rental unit,5, Studio,4, 1 bath,True,True,True,True,72.0
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,True,157.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,2, 1.5 baths,True,True,True,True,67.5
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,126.0
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,94.5
-Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,85.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,121.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,112.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,94.5
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,139.5
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,193.5
-Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,True,117.0
-Kuala Lumpur,Entire rental unit,4, 2 bedrooms,2, 2 baths,True,True,True,True,220.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,153.0
-Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,True,144.0
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,True,112.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,139.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,121.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,112.5
-Federal Territory of Kuala Lumpur,Entire condominium (condo),3, Studio,2, 1 bath,True,True,True,False,99.0
-Kampung Baru,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,False,94.5
-Seri Kembangan,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,99.0
-Kuala Lumpur,Hotel room,2, 1 bedroom,1, 1 private bath,True,True,False,False,58.5
-Cheras,Entire condominium (condo),2, Studio,1, 1.5 baths,True,True,True,False,76.5
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 2 baths,True,True,True,False,94.5
-Kuala Kubu Baru,Entire villa,10, 3 bedrooms,8, 3 baths,False,True,True,False,1255.5
-Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,76.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,False,117.0
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,108.0
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,True,False,135.0
-Petaling Jaya,Entire serviced apartment,4, Studio,2, 1 bath,True,True,True,False,58.5
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,False,121.5
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1.5 baths,True,True,True,False,130.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,False,False,72.0
-Kuala Lumpur,Private room,2, 1 bedroom,2, 1 private bath,True,True,True,False,162.0
-Kuala Lumpur,Entire loft,3, 1 bedroom,1, 1 bath,True,True,False,False,45.0
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,False,171.0
-Kuala Kubu Baru,Entire villa,6, 2 bedrooms,6, 2 baths,False,True,True,False,787.5
-Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,False,63.0
-Petaling Jaya,Entire condominium (condo),3, Studio,2, 1 bath,True,True,True,False,117.0
-Batu 9 Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,76.5
-Sri Hartamas,Entire serviced apartment,4, 1 bedroom,1, 1 bath,True,True,True,False,139.5
-Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1.5 baths,False,True,False,False,85.5
-Seri Kembangan,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,False,76.5
-Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,False,85.5
-Bukit Bintang,Entire condominium (condo),3, Studio,1, 1 bath,True,True,True,False,103.5
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,94.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,157.5
-Petaling Jaya,Entire loft,2, Studio,1, 1.5 baths,False,True,False,False,54.0
-Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,False,193.5
-i-City,Entire condominium (condo),4, 1 bedroom,4, 1.5 baths,True,True,True,False,76.5
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,139.5
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,False,171.0
-Bukit Bintang,Entire condominium (condo),4, 1 bedroom,1, 1.5 baths,True,True,True,False,94.5
-Hulu Langat,Entire villa,16, 8 bedrooms,12, 7 baths,True,True,True,False,2826.0
-Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1 bath,True,True,True,False,153.0
-Kuala Lumpur,Entire condominium (condo),3, 1 bedroom,1, 1.5 baths,True,True,True,False,72.0
-Bukit Bintang,Entire condominium (condo),2, Studio,1, 1 bath,True,True,False,False,81.0
-Balakong,Entire serviced apartment,4, 1 bedroom,2, 1 bath,True,True,True,False,94.5
-Bukit Bintang,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,103.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,103.5
-Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,72.0
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,False,130.5
-Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,72.0
-Cheras,Entire serviced apartment,4, Studio,2, 1 bath,True,True,True,False,76.5
-Kuala Lumpur,Entire serviced apartment,3, 1 bedroom,,,True,True,True,False,85.5
-Petaling Jaya,Entire condominium (condo),4, 1 bedroom,2, 1.5 baths,True,True,True,False,139.5
-Kuala Lumpur,Entire condominium (condo),3, 1 bedroom,1, 1 bath,True,True,True,False,99.0
-Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,144.0
-Kuala Lumpur,Entire serviced apartment,6, 3 bedrooms,3, 2 baths,True,True,True,False,49.5
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, Half-bath,True,True,True,False,108.0
-Batu 9 Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,76.5
-Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,True,False,130.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,94.5
-Petaling Jaya,Entire condominium (condo),5, 1 bedroom,2, 1 bath,True,True,True,False,85.5
-Kuala Kubu Baru,Entire villa,7, 2 bedrooms,6, 2 baths,False,True,True,False,990.0
-Cyberjaya,Entire condominium (condo),4, Studio,1, 1 bath,True,True,True,False,162.0
-Cheras,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,85.5
-Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,False,153.0
-Balakong,Entire condominium (condo),3, Studio,1, 1.5 baths,True,True,True,False,99.0
-Balakong,Entire rental unit,2, Studio,1, 1.5 baths,True,True,True,False,162.0
-Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,99.0
-Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,144.0
-Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,76.5
-Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,False,162.0
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,94.5
-Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,121.5
-Petaling Jaya,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,112.5
+Location,Room,Guests,bed_type,Number_of_bed,Number_of_bath,wifi,Air_cond,Kitchen,Self_check_in,Rating,Price_in_MYR
+Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,4.86,85.5
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,False,4.77,117.0
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,True,4.95,157.5
+Kuala Lumpur,Entire serviced apartment,6, 3 bedrooms,3, 2 baths,True,True,True,False,,49.5
+Kuala Lumpur,Hotel room,2, 1 bedroom,1, 1 private bath,True,True,False,True,4.51,58.5
+Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1.5 baths,False,True,False,True,4.74,85.5
+Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,0, 1 bath,True,True,True,True,,58.5
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,2, 1 bath,True,True,False,True,4.64,45.0
+Bukit Bintang,Entire condominium (condo),3, Studio,1, 1 bath,True,True,True,True,4.74,103.5
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,4.82,135.0
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,4.81,117.0
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,4.67,180.0
+Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,False,4.74,144.0
+Kuala Lumpur,Entire rental unit,2, Studio,0, 1 bath,True,True,True,True,4.66,103.5
+Kuala Lumpur,Entire condominium (condo),4, Studio,3, 1 bath,True,True,True,False,4.62,103.5
+Kuala Lumpur,Entire condominium (condo),3, 1 bedroom,1, 1.5 baths,True,True,True,True,4.78,72.0
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1.5 baths,True,True,True,True,4.5,130.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,True,True,4.82,94.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,False,True,4.71,72.0
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 2 baths,True,True,True,True,4.52,94.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,4.83,166.5
+Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,4.67,85.5
+Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,,,True,True,True,True,,49.5
+Kuala Lumpur,Entire loft,3, 1 bedroom,1, 1 bath,True,True,False,True,4.45,45.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.8,99.0
+Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,True,4.91,63.0
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,4.71,157.5
+Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,4.71,108.0
+Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,5.0,108.0
+Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,True,4.9,108.0
+Kuala Lumpur,Entire condominium (condo),6, 1 bedroom,2, 1 bath,True,True,True,True,4.89,171.0
+Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,False,5.0,130.5
+Kuala Lumpur,Entire rental unit,4, 2 bedrooms,4, 2 baths,True,True,True,True,4.78,193.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,4.77,144.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.67,94.5
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,4.95,189.0
+Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,4.75,85.5
+Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,4.78,117.0
+Federal Territory of Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.78,99.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.84,103.5
+Kuala Lumpur,Entire serviced apartment,2, Studio,2, 1 bath,True,True,True,True,4.69,81.0
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,True,True,4.81,63.0
+Federal Territory of Kuala Lumpur,Private room,2, 1 bedroom,1, 1 private bath,True,True,True,True,4.86,67.5
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,True,4.39,130.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.77,81.0
+Kuala Lumpur,Entire condominium (condo),4, Studio,1, 1 bath,True,True,True,False,4.62,103.5
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,True,4.97,121.5
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1 bath,True,True,False,True,4.5,99.0
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,True,4.89,108.0
+Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1 bath,True,True,True,True,5.0,153.0
+Kuala Lumpur,Entire rental unit,5, Studio,4, 1 bath,True,True,True,True,4.78,76.5
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,False,4.8,103.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,4.94,162.0
+Kuala Lumpur,Entire rental unit,3, Studio,2, 1 bath,True,True,True,True,4.94,94.5
+Kuala Lumpur,Entire rental unit,5, 1 bedroom,1, 1.5 baths,True,True,True,True,4.83,90.0
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1 bath,True,True,False,True,4.61,45.0
+Kuala Lumpur,Entire rental unit,2, Studio,1, 1.5 baths,True,True,True,False,4.7,94.5
+Kuala Lumpur,Entire condominium (condo),6, 1 bedroom,3, 1 bath,True,True,True,True,4.82,175.5
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,4.54,193.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.8,139.5
+Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,,85.5
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,2, 2 baths,True,True,True,True,4.95,117.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.8,94.5
+Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.8,117.0
+Kuala Lumpur,Entire serviced apartment,4, 1 bedroom,1, 1 bath,True,True,True,False,4.81,81.0
+Kuala Lumpur,Entire serviced apartment,3, Studio,2, 1 bath,True,True,True,True,4.74,103.5
+Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,5.0,112.5
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,True,4.84,153.0
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,4.77,117.0
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,4.75,139.5
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,4.77,171.0
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,4.72,189.0
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,4.92,121.5
+Kuala Lumpur,Entire rental unit,6, 1 bedroom,3, 1 bath,True,True,True,True,4.7,76.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,4.69,144.0
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,4.68,130.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,4.83,175.5
+Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,5.0,85.5
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,4.61,162.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.86,103.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,2, 1 bath,True,True,True,True,4.78,135.0
+Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1 bath,True,True,True,True,4.8,153.0
+Federal Territory of Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,4.9,112.5
+Federal Territory of Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,4.88,126.0
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,4.95,112.5
+Federal Territory of Kuala Lumpur,Entire serviced apartment,4, Studio,2, 1 bath,True,True,True,True,4.79,112.5
+Kuala Lumpur,Entire rental unit,5, 1 bedroom,1, 1 bath,True,True,True,True,4.46,81.0
+Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.48,90.0
+Kuala Lumpur,Entire condominium (condo),3, Studio,1, 1 bath,True,True,True,True,4.9,148.5
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1.5 baths,True,True,True,True,4.56,130.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,5.0,90.0
+Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,4.86,94.5
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1 bath,True,True,False,True,4.69,45.0
+Kuala Lumpur,Entire condominium (condo),3, 1 bedroom,2, 1 bath,True,True,True,True,4.8,94.5
+Federal Territory of Kuala Lumpur,Entire rental unit,3, 1 bedroom,2, 1 bath,True,True,True,True,4.85,108.0
+Kuala Lumpur,Entire loft,4, 1 bedroom,2, 1 bath,True,True,False,True,4.69,49.5
+Kuala Lumpur,Entire rental unit,3, Studio,2, 1 bath,True,True,True,True,4.93,58.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.75,90.0
+Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,True,4.77,117.0
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,4.84,171.0
+Kuala Lumpur,Entire serviced apartment,2, Studio,2, 1 bath,True,True,True,True,4.87,81.0
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,True,4.84,175.5
+Kuala Lumpur,Entire rental unit,5, Studio,1, 1 bath,True,True,True,True,4.84,108.0
+Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,True,4.85,148.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,4.95,175.5
+Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,0, 1 bath,True,True,True,True,,76.5
+Kuala Lumpur,Entire rental unit,7, 1 bedroom,1, 1 bath,True,True,True,True,4.88,175.5
+Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,4.77,144.0
+Kuala Lumpur,Entire serviced apartment,3, 1 bedroom,1, 1.5 baths,True,True,True,True,4.62,81.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.82,108.0
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,True,4.78,144.0
+Federal Territory of Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.65,99.0
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, Half-bath,True,True,True,True,4.93,108.0
+Federal Territory of Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,True,4.87,121.5
+Kuala Lumpur,Entire rental unit,5, Studio,4, 1 bath,True,True,True,True,4.63,72.0
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,True,4.83,157.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,2, 1.5 baths,True,True,True,True,4.77,67.5
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,4.83,126.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.47,94.5
+Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,True,4.15,85.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.83,121.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,4.67,112.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,5.0,94.5
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,True,4.97,139.5
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,True,4.77,193.5
+Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,True,4.94,117.0
+Kuala Lumpur,Entire rental unit,4, 2 bedrooms,2, 2 baths,True,True,True,True,5.0,220.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,5.0,153.0
+Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,True,5.0,144.0
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,True,4.87,112.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.72,139.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,True,4.91,121.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,True,4.79,112.5
+Federal Territory of Kuala Lumpur,Entire condominium (condo),3, Studio,2, 1 bath,True,True,True,False,4.76,99.0
+Kampung Baru,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,False,4.96,94.5
+Seri Kembangan,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.86,99.0
+Kuala Lumpur,Hotel room,2, 1 bedroom,1, 1 private bath,True,True,False,False,4.51,58.5
+Cheras,Entire condominium (condo),2, Studio,1, 1.5 baths,True,True,True,False,5.0,76.5
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 2 baths,True,True,True,False,4.52,94.5
+Kuala Kubu Baru,Entire villa,10, 3 bedrooms,8, 3 baths,False,True,True,False,4.94,1255.5
+Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.92,76.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,1, 1 bath,True,True,True,False,4.77,117.0
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,4.89,108.0
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,True,False,4.9,135.0
+Petaling Jaya,Entire serviced apartment,4, Studio,2, 1 bath,True,True,True,False,4.87,58.5
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,True,False,4.77,121.5
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1.5 baths,True,True,True,False,4.5,130.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,False,False,4.71,72.0
+Kuala Lumpur,Private room,2, 1 bedroom,2, 1 private bath,True,True,True,False,4.64,162.0
+Kuala Lumpur,Entire loft,3, 1 bedroom,1, 1 bath,True,True,False,False,4.45,45.0
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,False,4.77,171.0
+Kuala Kubu Baru,Entire villa,6, 2 bedrooms,6, 2 baths,False,True,True,False,4.92,787.5
+Kuala Lumpur,Entire rental unit,2, Studio,1, 1 bath,True,True,True,False,4.91,63.0
+Petaling Jaya,Entire condominium (condo),3, Studio,2, 1 bath,True,True,True,False,4.77,117.0
+Batu 9 Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.83,76.5
+Sri Hartamas,Entire serviced apartment,4, 1 bedroom,1, 1 bath,True,True,True,False,4.95,139.5
+Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1.5 baths,False,True,False,False,4.74,85.5
+Seri Kembangan,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,False,5.0,76.5
+Kuala Lumpur,Entire serviced apartment,4, Studio,1, 1 bath,True,True,True,False,4.67,85.5
+Bukit Bintang,Entire condominium (condo),3, Studio,1, 1 bath,True,True,True,False,4.75,103.5
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,4.95,94.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,5.0,157.5
+Petaling Jaya,Entire loft,2, Studio,1, 1.5 baths,False,True,False,False,4.76,54.0
+Kuala Lumpur,Entire rental unit,3, 1 bedroom,1, 1.5 baths,True,True,True,False,4.54,193.5
+i-City,Entire condominium (condo),4, 1 bedroom,4, 1.5 baths,True,True,True,False,4.95,76.5
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,4.75,139.5
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,False,4.84,171.0
+Bukit Bintang,Entire condominium (condo),4, 1 bedroom,1, 1.5 baths,True,True,True,False,4.24,94.5
+Hulu Langat,Entire villa,16, 8 bedrooms,12, 7 baths,True,True,True,False,4.85,2826.0
+Kuala Lumpur,Entire serviced apartment,2, 1 bedroom,1, 1 bath,True,True,True,False,4.8,153.0
+Kuala Lumpur,Entire condominium (condo),3, 1 bedroom,1, 1.5 baths,True,True,True,False,4.78,72.0
+Bukit Bintang,Entire condominium (condo),2, Studio,1, 1 bath,True,True,False,False,4.57,81.0
+Balakong,Entire serviced apartment,4, 1 bedroom,2, 1 bath,True,True,True,False,,94.5
+Bukit Bintang,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,4.52,103.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,4.86,103.5
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,4.33,72.0
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,False,4.39,130.5
+Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.83,72.0
+Cheras,Entire serviced apartment,4, Studio,2, 1 bath,True,True,True,False,4.88,76.5
+Kuala Lumpur,Entire serviced apartment,3, 1 bedroom,,,True,True,True,False,4.0,85.5
+Petaling Jaya,Entire condominium (condo),4, 1 bedroom,2, 1.5 baths,True,True,True,False,4.83,139.5
+Kuala Lumpur,Entire condominium (condo),3, 1 bedroom,1, 1 bath,True,True,True,False,4.88,99.0
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,4.69,144.0
+Kuala Lumpur,Entire serviced apartment,6, 3 bedrooms,3, 2 baths,True,True,True,False,5.0,49.5
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, Half-bath,True,True,True,False,4.93,108.0
+Batu 9 Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.87,76.5
+Kuala Lumpur,Entire rental unit,4, 1 bedroom,2, 1 bath,True,True,True,False,4.92,130.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,4.47,94.5
+Petaling Jaya,Entire condominium (condo),5, 1 bedroom,2, 1 bath,True,True,True,False,4.79,85.5
+Kuala Kubu Baru,Entire villa,7, 2 bedrooms,6, 2 baths,False,True,True,False,4.84,990.0
+Cyberjaya,Entire condominium (condo),4, Studio,1, 1 bath,True,True,True,False,4.92,162.0
+Cheras,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,4.96,85.5
+Kuala Lumpur,Entire rental unit,2, 1 bedroom,1, 1 bath,True,True,True,False,4.84,153.0
+Balakong,Entire condominium (condo),3, Studio,1, 1.5 baths,True,True,True,False,4.82,99.0
+Balakong,Entire rental unit,2, Studio,1, 1.5 baths,True,True,True,False,4.75,162.0
+Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.91,99.0
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,4.78,144.0
+Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.86,76.5
+Kuala Lumpur,Entire rental unit,3, Studio,1, 1 bath,True,True,True,False,4.61,162.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,4.67,94.5
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,4.83,121.5
+Petaling Jaya,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,4.61,112.5
+Cyberjaya,Entire condominium (condo),5, 2 bedrooms,3, 1 bath,True,True,True,False,4.82,139.5
+Kuala Lumpur,Entire serviced apartment,10, 4 bedrooms,7, 3 baths,True,True,True,False,5.0,414.0
+Petaling Jaya,Entire condominium (condo),6, Studio,3, 2 baths,True,True,True,False,4.69,243.0
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,1, 1 bath,True,True,True,False,4.93,175.5
+Kuala Lumpur,Entire condominium (condo),5, 2 bedrooms,3, 1 bath,True,True,True,False,4.84,166.5
+Kuala Lumpur,Entire condominium (condo),4, Studio,2, 2 baths,True,True,True,False,,175.5
+Kuala Selangor,Entire residential home,10, 4 bedrooms,7, 3 baths,False,True,True,False,,535.5
+Shah Alam,Entire bungalow,14, 5 bedrooms,8, 4.5 baths,True,True,True,False,4.77,1008.0
+Petaling Jaya,Entire rental unit,4, Studio,4, 1.5 baths,True,True,True,False,4.75,130.5
+Petaling Jaya,Entire serviced apartment,2, 1 bedroom,1, 1.5 baths,True,True,True,False,4.95,126.0
+Ampang,Entire villa,16, 5 bedrooms,12, 6 baths,True,True,True,False,4.82,1147.5
+Sungai Buloh,Entire condominium (condo),3, 1 bedroom,1, 1 bath,True,True,True,False,4.76,153.0
+Hulu Langat,Farm stay,8, Studio,4, 5 baths,False,False,True,False,4.94,1849.5
+Melaka,Entire condominium (condo),2, Studio,1, 1.5 baths,True,True,True,False,,148.5
+Kuala Lumpur,Entire loft,6, 1 bedroom,3, 2 baths,True,True,True,False,4.9,144.0
+Kuala Lumpur,Entire serviced apartment,8, 3 bedrooms,4, 3 baths,True,True,True,False,3.86,477.0
+Kuala Lumpur,Entire condominium (condo),6, 3 bedrooms,3, 2 baths,True,True,True,False,,166.5
+Sepang,Entire residential home,10, 4 bedrooms,0, 3 baths,False,True,True,False,,216.0
+Kuala Lumpur,Entire rental unit,4, 2 bedrooms,2, 2 baths,True,True,True,False,5.0,234.0
+Cyberjaya,Entire loft,5, 1 bedroom,3, 1.5 baths,True,True,True,False,4.81,112.5
+Bukit Bintang,Entire rental unit,3, Studio,2, 1 bath,True,True,False,False,4.68,72.0
+Kuala Lumpur,Entire townhouse,10, 4 bedrooms,10, 5 baths,True,True,True,False,4.65,805.5
+Batu 9 Cheras,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.88,81.0
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,False,False,4.95,99.0
+Kuala Lumpur,Entire condominium (condo),5, 1 bedroom,1, 1 bath,True,True,True,False,4.69,144.0
+Petaling Jaya,Entire loft,4, 1 bedroom,1, 1.5 baths,True,True,True,False,4.64,144.0
+Kuala Lumpur,Entire serviced apartment,3, 1 bedroom,1, 1 bath,True,True,True,False,4.79,139.5
+Bukit Bintang,Entire condominium (condo),4, Studio,1, 1 bath,True,True,True,False,4.54,112.5
+KUALA LUMPUR,Entire serviced apartment,2, 1 bedroom,1, 1.5 baths,True,True,True,False,4.73,112.5
+Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,False,False,4.97,108.0
+Kuala Lumpur,Entire serviced apartment,4, 1 bedroom,1, 1 bath,True,True,True,False,5.0,126.0
+Balakong,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,4.96,85.5
+Kuala Lumpur,Room,, 1 bedroom,1, 1 private bath,True,True,True,False,3.67,45.0
+Kuala Lumpur,Entire rental unit,5, Studio,4, 1 bath,True,True,True,False,4.63,72.0
+Petaling Jaya,Entire rental unit,2, Studio,1, 1 bath,True,True,True,False,4.88,99.0
+Petaling Jaya,Entire condominium (condo),6, 1 bedroom,2, 1 bath,True,True,True,False,4.87,108.0
+Selangor,Entire guesthouse,3, 1 bedroom,2, 1 bath,True,False,True,False,4.56,58.5
+Kuala Lumpur,Entire apartment,2, 1 bedroom,1, 1 bath,True,True,False,False,,108.0
+Kuala Lumpur,Entire condominium (condo),6, 1 bedroom,2, 1 bath,True,True,True,False,4.89,166.5
+Kuala Kubu Baru,Entire villa,10, 2 bedrooms,3, 2 baths,False,True,True,False,4.88,1426.5
+Cyberjaya,Entire condominium (condo),4, 1 bedroom,2, 1 bath,True,True,True,False,4.75,99.0
+Kuala Lumpur,Entire condominium (condo),2, 1 bedroom,1, 1 bath,True,True,True,False,4.49,67.5
+Cyberjaya,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.39,99.0
+Kuala Lumpur,Entire loft,4, 1 bedroom,1, 2 baths,True,True,True,False,4.59,130.5
+Kuala Lumpur,Entire rental unit,4, Studio,2, 1 bath,True,True,True,False,4.86,99.0
+Damansara Perdana,Entire condominium (condo),4, 1 bedroom,3, 1.5 baths,True,True,True,False,4.87,135.0
+Kuala Lumpur,Entire serviced apartment,2, Studio,1, 1 bath,True,True,False,False,4.0,85.5
+Balakong,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.78,81.0
+Kuala Lumpur,Entire rental unit,4, Studio,1, 1 bath,True,True,True,False,4.8,90.0
+Kuala Lumpur,Entire condominium (condo),2, Studio,1, 1 bath,True,True,False,False,4.97,103.5
+Kuala Lumpur,Entire serviced apartment,3, 1 bedroom,1, 1 bath,True,True,True,False,4.67,72.0
+Selangor,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.97,90.0
+Kuala Lumpur,Entire condominium (condo),4, Studio,2, 1 bath,True,True,True,False,,130.5
+Rawang,Entire guesthouse,16, 4 bedrooms,10, 4 baths,True,True,True,False,4.76,1152.0
+Tanjong Sepat,Entire residential home,8, 3 bedrooms,5, 2 baths,True,True,True,False,4.33,274.5
+Kuala Lumpur,Entire condominium (condo),6, 3 bedrooms,4, 2.5 baths,True,True,True,False,3.89,211.5
+Kuala Lumpur,Entire residential home,16, 6 bedrooms,12, 3 baths,True,True,True,False,4.85,333.0
+Kuala Lumpur,Entire rental unit,10, 3 bedrooms,5, 2.5 baths,True,True,True,False,,693.0
+Kuala Lumpur,Entire condominium (condo),4, 1 bedroom,2, 1.5 baths,True,True,True,False,,297.0
+Selangor,Entire bungalow,16, 3 bedrooms,5, 3 baths,True,True,True,False,4.81,364.5
+Serendah,Entire residential home,16, 6 bedrooms,18, 8 baths,True,True,True,False,4.93,1872.0
+Kuala Lumpur,Entire serviced apartment,10, 3 bedrooms,5, 2 baths,True,True,True,False,4.77,189.0
+Cyberjaya,Entire rental unit,3, 1 bedroom,1, 1 bath,True,True,True,False,4.78,117.0
+Cyberjaya,Entire condominium (condo),5, 2 bedrooms,2, 2 baths,True,True,True,False,4.65,166.5
+Shah Alam,Entire condominium (condo),2, Studio,1, 1 bath,True,True,True,False,4.92,126.0
+Kuala Lumpur,Entire loft,5, 1 bedroom,2, 2 baths,True,True,True,False,4.76,175.5
+Batang Kali,Hut,16, 4 bedrooms,20, 4 baths,True,True,True,False,4.77,1143.0
+Shah Alam,Entire residential home,10, 4 bedrooms,5, 3 baths,True,True,True,False,4.81,486.0
+Kuala Lumpur,Entire serviced apartment,5, 1 bedroom,2, 1 bath,False,True,False,False,,171.0
+Lenggeng,Entire cottage,12, 2 bedrooms,12, 4.5 baths,False,False,True,False,4.64,886.5
+Shah Alam,Entire rental unit,3, 1 bedroom,1, 1 bath,True,True,True,False,4.79,139.5
