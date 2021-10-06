@@ -12,7 +12,7 @@ def WebScrape(value):
     return soup
 
 web = WebScrape(80)
-for hotel in web.find_all('div', class_='_fhph4u'):
+for hotel in web.find_all('d iv', class_='_fhph4u'):
     all_list = []
     for info in hotel.find_all('div', class_='_gig1e7'):
         data = {}

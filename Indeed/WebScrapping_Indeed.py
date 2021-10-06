@@ -8,7 +8,13 @@ delays = [7, 4, 6, 2, 10, 19]
 delay = np.random.choice(delays)
 
 def UrlParsing(value):
-    url = f'https://malaysia.indeed.com/jobs?q=data+scientist&l=Selangor&start={value}'
+    # data scientist
+    # url = f'https://malaysia.indeed.com/jobs?q=data+scientist&l=Kuala+Lumpur&start={value}'
+    # data analyst
+    # url = f'https://malaysia.indeed.com/jobs?q=data+analyst&l=Kuala+Lumpur&start={value}'
+    # analyst
+    url = f'https://malaysia.indeed.com/jobs?q=analyst&l=Kuala+Lumpur&start={value}'
+
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134'}
     data = requests.get(url, headers=headers)
     soup = BeautifulSoup(data.text, 'html.parser')
@@ -55,10 +61,10 @@ def webScrapping(soup):
     return jobs_list
 
 all_jobs = pd.DataFrame()
-for v in range(480, 500, 10):
+for v in range(160, 200, 10):
     link = UrlParsing(v)
     new_jobs = webScrapping(link)
     all_jobs = all_jobs.append(new_jobs, ignore_index=True)
 
 print(all_jobs.head(), 'total length: ', len(all_jobs))
-all_jobs.to_csv('./Scraping_lists/jobs_list_0020.csv', index=False)
+all_jobs.to_csv('./Scraping_lists/jobs_list_0021.csv', index=False)
